@@ -8,7 +8,7 @@
 
 ## Output
 
-![MAB Comparison Chart](outputs/Team_176_MAB_comparison.png)
+![MAB Comparison Chart](Team_176_MAB_comparison.png)
 
 ---
 
@@ -61,8 +61,7 @@ GROUP_NUMBER = 176
 ```
 .
 ├── mab_treatment_recommendation.py   # Complete MAB pipeline (dataset, 3 strategies, plots, analysis)
-├── outputs/
-│   └── Team_176_MAB_comparison.png   # Generated comparison chart (cumulative reward)
+├── Team_176_MAB_comparison.png       # Generated comparison chart (cumulative reward)
 ├── requirements.txt
 └── .gitignore
 ```
